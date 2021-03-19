@@ -12,4 +12,4 @@ function reverse(str1) {
 function isPalindrome(str1) {
    return reverse(str1) === str1;
 }
-console.log(reverse("Vigi"))
+console.log(reverse("Vigi"));
